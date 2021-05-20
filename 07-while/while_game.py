@@ -1,3 +1,6 @@
+# Multiplication Program 
+# Run this program and see how it works, then make it without looking at the solution.
+
 import random
 
 totalGames = 0
